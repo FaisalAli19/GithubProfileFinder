@@ -1,0 +1,28 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.search .container{
+    padding-left: 0;
+    padding-right: 30px;
+}
+
+.search #profile{
+    margin-top: 30px;
+}
+
+#profile img{
+    width: 100%;
+}
+
+.flex-container{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
